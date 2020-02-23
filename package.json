@@ -1,0 +1,19 @@
+{
+  "name": "highcharts-align-threshold",
+  "version": "1.0.0",
+  "description": "Experimental Highcharts plugin to implement chart.alignThreshold option. Author: Torstein Hønsi [Source](https://github.com/highcharts/highcharts/blob/master/samples/highcharts/studies/alignthresholds/demo.js)",
+  "main": "highcharts-align-threshold.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmax/highcharts-align-threshold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmax/highcharts-align-threshold/issues"
+  },
+  "homepage": "https://github.com/vmax/highcharts-align-threshold#readme"
+}
